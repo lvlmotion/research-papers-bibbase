@@ -1,2 +1,2 @@
 # bibbase.github.io
-BibBase Example Page
+https://jfslin.github.io/ars.bibbase/
