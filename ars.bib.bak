@@ -106,9 +106,11 @@
   year     = {2012},
   volume   = {33},
   pages    = {2099--2115},
+  abstract = {Many applications in rehabilitation and sports training require the assessment of the patient's status based on observation of their movement. Small wireless sensors, such as accelerometers and gyroscopes, can be utilized to provide a quantitative measure of the human movement for assessment. In this paper, a kinematics-based approach is developed to estimate human leg posture and velocity from wearable sensors during the performance of typical physiotherapy and training exercises. The proposed approach uses an extended Kalman filter to estimate joint angles from accelerometer and gyroscopic data and is capable of recovering joint angles from arbitrary 3D motion. Additional joint limit constraints are implemented to reduce drift, and an automated approach is developed for estimating and adapting the process noise during online estimation. The approach is validated through a user study consisting of 20 subjects performing knee and hip rehabilitation exercises. When compared to motion capture, the approach achieves an average root-mean-square error of 4.27 cm for unconstrained motion, with an average joint error of 6.5°. The average root-mean-square error is 3.31 cm for sagittal planar motion, with an average joint error of 4.3°.},
   doi      = {10.1088/0967-3334/33/12/2099},
   groups   = {ARS, Key},
   keywords = {Pose Estimation},
+  url      = {https://jfslin.github.io/ars.bibbase/references/Lin2012_PMEA.pdf},
 }
 
 @Conference{Lin2016_SWIT,
